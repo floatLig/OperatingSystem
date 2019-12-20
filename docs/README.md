@@ -1,11 +1,9 @@
-😃 本仓库为Operating System.
+> [关于CPU通用寄存器中各寄存器含义](https://zhidao.baidu.com/question/122898039.html)
 
-# Operating System 1.0
+**用户态的进程内存映像：**
 
-Record the knowledge points encountered in learning Operating System
+![进程的内存空间.jpg](../../_img/进程的内存映像.jpg)
 
-Beginning October 25,2019
+**内核态下的PCB的属性：**
 
-Using docsify
-
-在线预览：<https://floatlig.github.io/OperatingSystem/#/>
+![进程的内存空间.jpg](../../_img/进程-PCB属性.jpeg)
